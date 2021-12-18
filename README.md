@@ -17,6 +17,6 @@ gempa_bmkg.listof5plusgempa().then(data => {
 
 ```
 
-NPM Package Name: [gempa-id-info](https://www.npmjs.com/package/gempa-id-info)
-Latest Version: 1.0.22
+NPM Package Name: [gempa-id-info](https://www.npmjs.com/package/gempa-id-info)\n
+Latest Version: 1.0.22\n
 Current Beta Version: 1.0.5-beta
