@@ -1,6 +1,6 @@
 # gempa-id-info
 
-## Basic Code:
+#### Basic Code:
 
 ```js
 
