@@ -1,3 +1,7 @@
+### 1.0.33
+
+- Updates few scripts on the package.
+
 ### 1.0.22
 
 - Updated Few Scripts on the package
