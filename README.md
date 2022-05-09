@@ -1,22 +1,26 @@
 # gempa-id-info
 
-#### Basic Code:
+## Basic Code:
 
 ```js
 
-let gempa_bmkg = require('gempa-id-info') // Includes 2 functions: latestGempa() & listof5plusgempa()
+let bmkg_info = require('gempa-id-info')
 
 
-gempa_bmkg.latestGempa().then(data => {
-    console.log(data) // Returns {Terjadi: ..., Coordinates: ..., Magnitude: ...,} ...
+bmkg_info.latestGempa().then(data => {
+    console.log(data) // Returns JSON
 })
 
-gempa_bmkg.listof5plusgempa().then(data => {
-    console.log(data) // Returns [{Terjadi: ..., Coordinates: ..., Magnitude: ...,},{Terjadi: ..., Coordinates: ..., Magnitude: ...,},{Terjadi: ..., Coordinates: ..., Magnitude: ...,} ...]
+bmkg_info.listOfTopFifteenGempa().then(data => {
+    console.log(data) // Returns JSON
 })
 
+bmkg_info.covidCountIndonesia().then(data => {
+    console.log(data) // Returns JSON
+})
 ```
 
-##### NPM Package Name: [gempa-id-info](https://www.npmjs.com/package/gempa-id-info)
-##### Latest Version: 1.0.22
-##### Current Beta Version: 1.0.5-beta
+##### [Github Repository](https://github.com/dep-5260/gempa-id-info)
+##### [Bugs or Issues](https://github.com/dep-5260/gempa-id-info/issues)
+##### [Update Log](https://github.com/dep-5260/gempa-id-info/blob/main/UPDATELOG.md)
+##### [Donasi aku disini lewat Saweria](https://saweria.co/depdev)
