@@ -1,6 +1,6 @@
 {
   "name": "gempa-id-info",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "The package for picking up earthquake and covid information from Indonesia",
   "main": "index.js",
   "scripts": {

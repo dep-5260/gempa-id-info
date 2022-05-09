@@ -20,7 +20,8 @@ bmkg_info.covidCountIndonesia().then(data => {
 })
 ```
 
-##### [Github Repository](https://github.com/dep-5260/gempa-id-info)
-##### [Bugs or Issues](https://github.com/dep-5260/gempa-id-info/issues)
-##### [Update Log](https://github.com/dep-5260/gempa-id-info/blob/main/UPDATELOG.md)
-##### [Donasi aku disini lewat Saweria](https://saweria.co/depdev)
+#### [Github Repository](https://github.com/dep-5260/gempa-id-info)
+#### [Bugs or Issues](https://github.com/dep-5260/gempa-id-info/issues)
+#### [Update Log](https://github.com/dep-5260/gempa-id-info/blob/main/UPDATELOG.md)
+#### [Donasi aku disini lewat Saweria](https://saweria.co/depdev)
+#### [Join our discord server here](https://discord.gg/zddRvUuQ28)

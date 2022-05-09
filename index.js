@@ -41,5 +41,5 @@ module.exports = {
     latestGempa: latestGempa,
     listOfTopFifteenGempa: listLastGempa,
     covidCountIndonesia: covidCountRI,
-    version: '1.0.4'
+    version: '1.0.5'
 }
