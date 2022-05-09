@@ -1,3 +1,7 @@
+### 1.0.4
+
+- Updated whole script system. (This package has been changed to open sourced)
+
 ### 1.0.33
 
 - Updates few scripts on the package.
