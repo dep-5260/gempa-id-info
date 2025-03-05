@@ -11,11 +11,7 @@ bmkg_info.latestGempa().then(data => {
     console.log(data) // Returns JSON
 })
 
-bmkg_info.listOfTopFifteenGempa().then(data => {
-    console.log(data) // Returns JSON
-})
-
-bmkg_info.covidCountIndonesia().then(data => {
+bmkg_info.list15Gempa().then(data => {
     console.log(data) // Returns JSON
 })
 ```

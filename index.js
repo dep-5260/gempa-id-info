@@ -39,7 +39,6 @@ function covidCountRI() {
 
 module.exports = {
     latestGempa: latestGempa,
-    listOfTopFifteenGempa: listLastGempa,
-    covidCountIndonesia: covidCountRI,
-    version: '1.0.5'
+    list15Gempa: listLastGempa,
+    version: '1.1'
 }

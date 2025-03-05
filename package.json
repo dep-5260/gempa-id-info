@@ -1,7 +1,7 @@
 {
   "name": "gempa-id-info",
-  "version": "1.0.5",
-  "description": "The package for picking up earthquake and covid information from Indonesia",
+  "version": "1.1.0",
+  "description": "The package for picking up earthquake from Indonesia",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
